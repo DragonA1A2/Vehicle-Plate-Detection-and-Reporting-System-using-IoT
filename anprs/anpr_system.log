@@ -1,0 +1,202 @@
+2025-04-21 00:06:38,719 - INFO - Starting camera stream...
+2025-04-21 00:06:38,723 - INFO - ANPR system is running. Press Ctrl+C to exit.
+Traceback (most recent call last):
+  File "C:\Users\Ahmed Ali\Desktop\FYP_2\FYP_2\FYP_2\anpr\anprs\main.py", line 37, in main
+    plate_img = plate_processor.detect_plate(frame)
+  File "C:\Users\Ahmed Ali\Desktop\FYP_2\FYP_2\FYP_2\anpr\anprs\plate_processor.py", line 27, in detect_plate
+    plates = self.plate_cascade.detectMultiScale(
+        preprocessed, scaleFactor=1.1, minNeighbors=5, minSize=(30, 30)
+    )
+cv2.error: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\objdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+
+Traceback (most recent call last):
+  File "C:\Users\Ahmed Ali\Desktop\FYP_2\FYP_2\FYP_2\anpr\anprs\main.py", line 37, in main
+    plate_img = plate_processor.detect_plate(frame)
+  File "C:\Users\Ahmed Ali\Desktop\FYP_2\FYP_2\FYP_2\anpr\anprs\plate_processor.py", line 27, in detect_plate
+    plates = self.plate_cascade.detectMultiScale(
+        preprocessed, scaleFactor=1.1, minNeighbors=5, minSize=(30, 30)
+    )
+cv2.error: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\objdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+
+Traceback (most recent call last):
+  File "C:\Users\Ahmed Ali\Desktop\FYP_2\FYP_2\FYP_2\anpr\anprs\main.py", line 37, in main
+    plate_img = plate_processor.detect_plate(frame)
+  File "C:\Users\Ahmed Ali\Desktop\FYP_2\FYP_2\FYP_2\anpr\anprs\plate_processor.py", line 27, in detect_plate
+    plates = self.plate_cascade.detectMultiScale(
+        preprocessed, scaleFactor=1.1, minNeighbors=5, minSize=(30, 30)
+    )
+cv2.error: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\objdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+
+Traceback (most recent call last):
+  File "C:\Users\Ahmed Ali\Desktop\FYP_2\FYP_2\FYP_2\anpr\anprs\main.py", line 37, in main
+    plate_img = plate_processor.detect_plate(frame)
+  File "C:\Users\Ahmed Ali\Desktop\FYP_2\FYP_2\FYP_2\anpr\anprs\plate_processor.py", line 27, in detect_plate
+    plates = self.plate_cascade.detectMultiScale(
+        preprocessed, scaleFactor=1.1, minNeighbors=5, minSize=(30, 30)
+    )
+cv2.error: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\objdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+
+Traceback (most recent call last):
+  File "C:\Users\Ahmed Ali\Desktop\FYP_2\FYP_2\FYP_2\anpr\anprs\main.py", line 37, in main
+    plate_img = plate_processor.detect_plate(frame)
+  File "C:\Users\Ahmed Ali\Desktop\FYP_2\FYP_2\FYP_2\anpr\anprs\plate_processor.py", line 27, in detect_plate
+    plates = self.plate_cascade.detectMultiScale(
+        preprocessed, scaleFactor=1.1, minNeighbors=5, minSize=(30, 30)
+    )
+cv2.error: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\objdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+
+Traceback (most recent call last):
+  File "C:\Users\Ahmed Ali\Desktop\FYP_2\FYP_2\FYP_2\anpr\anprs\main.py", line 37, in main
+    plate_img = plate_processor.detect_plate(frame)
+  File "C:\Users\Ahmed Ali\Desktop\FYP_2\FYP_2\FYP_2\anpr\anprs\plate_processor.py", line 27, in detect_plate
+    plates = self.plate_cascade.detectMultiScale(
+        preprocessed, scaleFactor=1.1, minNeighbors=5, minSize=(30, 30)
+    )
+cv2.error: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\objdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+
+Traceback (most recent call last):
+  File "C:\Users\Ahmed Ali\Desktop\FYP_2\FYP_2\FYP_2\anpr\anprs\main.py", line 37, in main
+    plate_img = plate_processor.detect_plate(frame)
+  File "C:\Users\Ahmed Ali\Desktop\FYP_2\FYP_2\FYP_2\anpr\anprs\plate_processor.py", line 27, in detect_plate
+    plates = self.plate_cascade.detectMultiScale(
+        preprocessed, scaleFactor=1.1, minNeighbors=5, minSize=(30, 30)
+    )
+cv2.error: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\objdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+
+Traceback (most recent call last):
+  File "C:\Users\Ahmed Ali\Desktop\FYP_2\FYP_2\FYP_2\anpr\anprs\main.py", line 37, in main
+    plate_img = plate_processor.detect_plate(frame)
+  File "C:\Users\Ahmed Ali\Desktop\FYP_2\FYP_2\FYP_2\anpr\anprs\plate_processor.py", line 27, in detect_plate
+    plates = self.plate_cascade.detectMultiScale(
+        preprocessed, scaleFactor=1.1, minNeighbors=5, minSize=(30, 30)
+    )
+cv2.error: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\objdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+
+Traceback (most recent call last):
+  File "C:\Users\Ahmed Ali\Desktop\FYP_2\FYP_2\FYP_2\anpr\anprs\main.py", line 37, in main
+    plate_img = plate_processor.detect_plate(frame)
+  File "C:\Users\Ahmed Ali\Desktop\FYP_2\FYP_2\FYP_2\anpr\anprs\plate_processor.py", line 27, in detect_plate
+    plates = self.plate_cascade.detectMultiScale(
+        preprocessed, scaleFactor=1.1, minNeighbors=5, minSize=(30, 30)
+    )
+cv2.error: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\objdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+
+Traceback (most recent call last):
+  File "C:\Users\Ahmed Ali\Desktop\FYP_2\FYP_2\FYP_2\anpr\anprs\main.py", line 37, in main
+    plate_img = plate_processor.detect_plate(frame)
+  File "C:\Users\Ahmed Ali\Desktop\FYP_2\FYP_2\FYP_2\anpr\anprs\plate_processor.py", line 27, in detect_plate
+    plates = self.plate_cascade.detectMultiScale(
+        preprocessed, scaleFactor=1.1, minNeighbors=5, minSize=(30, 30)
+    )
+cv2.error: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\objdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+
+Traceback (most recent call last):
+  File "C:\Users\Ahmed Ali\Desktop\FYP_2\FYP_2\FYP_2\anpr\anprs\main.py", line 37, in main
+    plate_img = plate_processor.detect_plate(frame)
+  File "C:\Users\Ahmed Ali\Desktop\FYP_2\FYP_2\FYP_2\anpr\anprs\plate_processor.py", line 27, in detect_plate
+    plates = self.plate_cascade.detectMultiScale(
+        preprocessed, scaleFactor=1.1, minNeighbors=5, minSize=(30, 30)
+    )
+cv2.error: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\objdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+
+Traceback (most recent call last):
+  File "C:\Users\Ahmed Ali\Desktop\FYP_2\FYP_2\FYP_2\anpr\anprs\main.py", line 37, in main
+    plate_img = plate_processor.detect_plate(frame)
+  File "C:\Users\Ahmed Ali\Desktop\FYP_2\FYP_2\FYP_2\anpr\anprs\plate_processor.py", line 27, in detect_plate
+    plates = self.plate_cascade.detectMultiScale(
+        preprocessed, scaleFactor=1.1, minNeighbors=5, minSize=(30, 30)
+    )
+cv2.error: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\objdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+
+Traceback (most recent call last):
+  File "C:\Users\Ahmed Ali\Desktop\FYP_2\FYP_2\FYP_2\anpr\anprs\main.py", line 37, in main
+    plate_img = plate_processor.detect_plate(frame)
+  File "C:\Users\Ahmed Ali\Desktop\FYP_2\FYP_2\FYP_2\anpr\anprs\plate_processor.py", line 27, in detect_plate
+    plates = self.plate_cascade.detectMultiScale(
+        preprocessed, scaleFactor=1.1, minNeighbors=5, minSize=(30, 30)
+    )
+cv2.error: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\objdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+
+Traceback (most recent call last):
+  File "C:\Users\Ahmed Ali\Desktop\FYP_2\FYP_2\FYP_2\anpr\anprs\main.py", line 37, in main
+    plate_img = plate_processor.detect_plate(frame)
+  File "C:\Users\Ahmed Ali\Desktop\FYP_2\FYP_2\FYP_2\anpr\anprs\plate_processor.py", line 27, in detect_plate
+    plates = self.plate_cascade.detectMultiScale(
+        preprocessed, scaleFactor=1.1, minNeighbors=5, minSize=(30, 30)
+    )
+cv2.error: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\objdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+
+Traceback (most recent call last):
+  File "C:\Users\Ahmed Ali\Desktop\FYP_2\FYP_2\FYP_2\anpr\anprs\main.py", line 37, in main
+    plate_img = plate_processor.detect_plate(frame)
+  File "C:\Users\Ahmed Ali\Desktop\FYP_2\FYP_2\FYP_2\anpr\anprs\plate_processor.py", line 27, in detect_plate
+    plates = self.plate_cascade.detectMultiScale(
+        preprocessed, scaleFactor=1.1, minNeighbors=5, minSize=(30, 30)
+    )
+cv2.error: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\objdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+
+Traceback (most recent call last):
+  File "C:\Users\Ahmed Ali\Desktop\FYP_2\FYP_2\FYP_2\anpr\anprs\main.py", line 37, in main
+    plate_img = plate_processor.detect_plate(frame)
+  File "C:\Users\Ahmed Ali\Desktop\FYP_2\FYP_2\FYP_2\anpr\anprs\plate_processor.py", line 27, in detect_plate
+    plates = self.plate_cascade.detectMultiScale(
+        preprocessed, scaleFactor=1.1, minNeighbors=5, minSize=(30, 30)
+    )
+cv2.error: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\objdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+
+Traceback (most recent call last):
+  File "C:\Users\Ahmed Ali\Desktop\FYP_2\FYP_2\FYP_2\anpr\anprs\main.py", line 37, in main
+    plate_img = plate_processor.detect_plate(frame)
+  File "C:\Users\Ahmed Ali\Desktop\FYP_2\FYP_2\FYP_2\anpr\anprs\plate_processor.py", line 27, in detect_plate
+    plates = self.plate_cascade.detectMultiScale(
+        preprocessed, scaleFactor=1.1, minNeighbors=5, minSize=(30, 30)
+    )
+cv2.error: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\objdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+
+Traceback (most recent call last):
+  File "C:\Users\Ahmed Ali\Desktop\FYP_2\FYP_2\FYP_2\anpr\anprs\main.py", line 37, in main
+    plate_img = plate_processor.detect_plate(frame)
+  File "C:\Users\Ahmed Ali\Desktop\FYP_2\FYP_2\FYP_2\anpr\anprs\plate_processor.py", line 27, in detect_plate
+    plates = self.plate_cascade.detectMultiScale(
+        preprocessed, scaleFactor=1.1, minNeighbors=5, minSize=(30, 30)
+    )
+cv2.error: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\objdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+
+Traceback (most recent call last):
+  File "C:\Users\Ahmed Ali\Desktop\FYP_2\FYP_2\FYP_2\anpr\anprs\main.py", line 37, in main
+    plate_img = plate_processor.detect_plate(frame)
+  File "C:\Users\Ahmed Ali\Desktop\FYP_2\FYP_2\FYP_2\anpr\anprs\plate_processor.py", line 27, in detect_plate
+    plates = self.plate_cascade.detectMultiScale(
+        preprocessed, scaleFactor=1.1, minNeighbors=5, minSize=(30, 30)
+    )
+cv2.error: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\objdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+
+Traceback (most recent call last):
+  File "C:\Users\Ahmed Ali\Desktop\FYP_2\FYP_2\FYP_2\anpr\anprs\main.py", line 37, in main
+    plate_img = plate_processor.detect_plate(frame)
+  File "C:\Users\Ahmed Ali\Desktop\FYP_2\FYP_2\FYP_2\anpr\anprs\plate_processor.py", line 27, in detect_plate
+    plates = self.plate_cascade.detectMultiScale(
+        preprocessed, scaleFactor=1.1, minNeighbors=5, minSize=(30, 30)
+    )
+cv2.error: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\objdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+
